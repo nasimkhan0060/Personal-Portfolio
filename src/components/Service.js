@@ -35,12 +35,8 @@ const Service = ({ dark }) => {
       <div className="dizme_tm_services">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
-            <span>Services</span>
-            <h3>What I Do for Clients</h3>
-            <p>
-              Most common methods for designing websites that work well on
-              desktop is responsive and adaptive design
-            </p>
+            <span>Research</span>
+            <h3>Research Interests</h3>
           </div>
           <div className="service_list">
             <ul>
@@ -49,16 +45,18 @@ const Service = ({ dark }) => {
                   (data, i) =>
                     data && (
                       <li
-                        className={`wow ${
-                          (i * 1) % 2 === 0 ? "fadeInLeft" : "fadeInRight"
-                        }`}
+                        className={`wow ${(i * 1) % 2 === 0 ? "fadeInLeft" : "fadeInRight"
+                          }`}
                         data-wow-duration="1s"
                         key={i}
                         onClick={() => onClick(i)}
                       >
                         <div className="list_inner tilt-effect">
                           <span className="icon">
-                            {parse(data.icon.svg)}
+                            <img
+                              className="svg replaced"
+                              src={data.icon.image}
+                            />
                             {dark ? (
                               <img
                                 className="back"
@@ -75,9 +73,6 @@ const Service = ({ dark }) => {
                           </span>
                           <div className="title">
                             <h3>{data.title}</h3>
-                            <span className="price">
-                              Starts from <span>${data.price}</span>
-                            </span>
                           </div>
                           <div className="text">
                             <p>{data.shortDec}</p>
@@ -95,6 +90,23 @@ const Service = ({ dark }) => {
             </ul>
           </div>
         </div>
+        <div className="dizme_tm_section">
+          <div className="dizme_tm_main_title" data-align="center">
+            <h3>Research Areas</h3>
+            <ul>
+              <a href="https://cs.illinois.edu/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a>
+              <br />
+              <a href="http://cs.illinois.edu/research/areas/scientific-computing">Scientific Computing</a>
+            </ul>
+          </div>
+          <div className="dizme_tm_main_title" data-align="center">
+            <h3>Chapters in Books</h3>
+            <p>
+              Laxmikant Kale and Edgar Solomonik; Parallel sorting; Encyclopedia of Parallel Computing, Springer Verlag, David Padua, Ed., 2011.
+            </p>
+          </div>
+        </div>
+
         <div className="brush_1 wow fadeInLeft" data-wow-duration="1s">
           <img src="img/brushes/service/5.png" alt="image" />
         </div>
