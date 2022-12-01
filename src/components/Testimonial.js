@@ -27,56 +27,17 @@ const Testimonial = () => {
     <div className="dizme_tm_section">
       <div className="dizme_tm_testimonials">
         <div className="dizme_tm_main_title" data-align="center">
-          <span>Testimonials</span>
-          <h3>What My Clients Say</h3>
-          <p>
-            Most common methods for designing websites that work well on desktop
-            is responsive and adaptive design
-          </p>
+          <span>Reports</span>
+<p> Chaoqi Yang, Cheng Qian, Navjot Singh, Cao Xiao, Brandon Westover, Edgar Solomonik, Jimeng Sun; Augmented tensor decomposition with stochastic optimization; arxiv:2106.07900 [math.NA], 39 pages, June 2021 </p>
+<p> Yang Gao, Phillip Helms, Garnet Kin-Lic Chan, and Edgar Solomonik; Automatic transformation of irreducible representations for efficient contraction of tensors with cyclic group symmetry; arXiv:20001.08056 [physics.comp-ph], 20 pages, July 2020. </p>
+<p> Yifan Zhang and Edgar Solomonik; On stability of tensor networks and canonical forms; arXiv:2001.01191 [math.NA], 24 pages, January 2020.</p>
+<p> Edwin Pednault, John A. Gunnels, Giacomo Nannicini, Lior Horesh, Thomas Magerlein, Edgar Solomonik, Erik Draeger, Eric Holland, and Robert Wisnieff; Breaking the 49-qubit barrier in the simulation of quantum circuits; arXiv:1710.05867 [quant-ph], 44 pages, October 2017.</p>
+<p> Edgar Solomonik and Torsten Hoefler; Sparse tensor algebra as a parallel programming model arXiv preprint, arXiv:1512.00066 [cs.MS], 20 pages, November 2015.</p>
+<p> Edgar Solomonik, Jeff Hammond, and James Demmel; A preliminary analysis of Cyclops Tensor Framework; 12 pages, EECS Department, University of California, Berkeley, March 2012.</p>
         </div>
         <div className="list_wrapper">
           <div className="total">
             <div className="in">
-              <Swiper {...props} className="">
-                {data &&
-                  data.map((data, i) => (
-                    <SwiperSlide key={i}>
-                      <div className="icon">
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          xmlnsXlink="http://www.w3.org/1999/xlink"
-                          version="1.1"
-                          id="Layer_1"
-                          x="0px"
-                          y="0px"
-                          width="200px"
-                          height="200px"
-                          viewBox="796 698 200 200"
-                          enableBackground="new 796 698 200 200"
-                          xmlSpace="preserve"
-                          className="svg replaced-svg"
-                        >
-                          <g>
-                            <path d="M885.208,749.739v-40.948C836.019,708.791,796,748.81,796,798v89.209h89.208V798h-48.26   C836.948,771.39,858.598,749.739,885.208,749.739z" />
-                            <path d="M996,749.739v-40.948c-49.19,0-89.209,40.019-89.209,89.209v89.209H996V798h-48.26   C947.74,771.39,969.39,749.739,996,749.739z" />
-                          </g>
-                        </svg>
-                      </div>
-                      <div className="text">
-                        <p>{data.details}</p>
-                      </div>
-                      <div className="short">
-                        <div className="image">
-                          <div className="main" data-img-url={data.img} />
-                        </div>
-                        <div className="detail">
-                          <h3>{data.name}</h3>
-                          <span>{data.profession}</span>
-                        </div>
-                      </div>
-                    </SwiperSlide>
-                  ))}
-              </Swiper>
               <div className="owl-dots"></div>
             </div>
             <div className="left_details">
