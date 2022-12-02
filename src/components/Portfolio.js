@@ -12,7 +12,7 @@ const Portfolio = () => {
   // Isotope
   const isotope = useRef();
   const [filterKey, setFilterKey] = useState("*");
-  useEffect(() => {
+  useEffect(() => {   
     setTimeout(() => {
       isotope.current = new Isotope(".gallery_zoom", {
         itemSelector: ".grid-item",
@@ -51,12 +51,25 @@ const Portfolio = () => {
       <div className="dizme_tm_portfolio">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
-            <span>Portfolio</span>
-            <h3>My Amazing Works</h3>
-            <p>
-              Most common methods for designing websites that work well on
-              desktop is responsive and adaptive design
-            </p>
+          <span>Publications</span>
+            <h3>Journals and Articles</h3>
+            <h4>Selected Articles in Journals</h4>
+    <text>
+    "1"..• Linjian Ma and Edgar Solomonik; Accelerating alternating least squares for tensor decomposition by pairwise perturbation; Numerical Linear Algebra with Applications (NLAA), 27 pages, 2022, to appear.
+    "2"..• Navjot Singh, Zecheng Zhang, Xiaoxiao Wu, Naijing Zhang, Siyuan Zhang, and Edgar Solomonik; Distributed-memory tensor completion for generalized loss functions in Python using new sparse tensor kernels; Journal of Parallel and Distributed Computing (JPDC), 29 pages, 2022, to appear.
+    "3"..• Edgar Solomonik, James Demmel, and Torsten Hoefler; Communication lower bounds of bilinear algorithms for symmetric tensor contractions; SIAM Journal of Scientific Computing (SISC), 28 pages, 2021. 
+    "4"..• Navjot Singh, Linjian Ma, Hongru Yang, and Edgar Solomonik. Comparison of accuracy and scalability of Gauss-Newton and alternating least squares for CP decomposition. SIAM Journal of Scientific Computing (SISC), 20 pages, 2021.
+    Caleb Ju and Edgar Solomonik; Derivation and analysis of fast bilinear algorithms for convolution; SIAM Review, 34 pages, 2020. </text>
+
+
+    <h4>Articles in Conference Proceedings</h4>
+    <text>"1"...Tim Baer, Raghavendra Kanakagiri, and Edgar Solomonik; Parallel minimum spanning forest computation using sparse matrix kernels: SIAM Conference of Parallel Processing for
+        Scientific Computing (SIAM PP), 11 pages. February 2022.
+        "2".. Linjian Ma and Edgar Solomonik: Fast and accurate randomized algorithms for low-rank tensor decompositions: Conference on Neural Information Processing Systems (NeurIPS), 13 pages, November 2021. Acceptance rate: 27%
+        "3"... Chaogi Yang, Navjot Singh, Cao Xiao, Cheng Qian, Edgar Solomonik, Jimeng Sun; MTC: Multiresolution tensor completion from partial and coarse observations; ACM SIGKDD Conference, 11 pages, June 2021.
+        "4"... Edward Hutter and Edgar Solomonik; Confidence-based approximation for performance prediction using execution path analysis; IEEE International Parallel and Distributed Processing Symposium (IPDPS), 12 pages, May 2021.
+        "5"... Linjian Ma and Edgar Solomonik: Efficient parallel CP decomposition with pairwise perturbation and multi-sweep dimension tree; IEEE International Parallel and Distributed Processing Symposium (IPDPS), 11 pages, May 2021.
+        </text>
           </div>
           <div className="portfolio_filter">
             <ul>
