@@ -25,7 +25,7 @@ const Header = ({ logo }) => {
                 <a href="#service">Research</a>
               </li>
               <li>
-                <a href="#blog">Blog</a>
+                <a href="#blog">Others</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
