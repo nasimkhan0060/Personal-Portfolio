@@ -7,28 +7,28 @@ const About = ({ dark }) => {
           <div className="wrapper">
             <div className="left">
               <div className="image">
-                <img src={`img/about/${dark ? 2 : 1}.jpg`} alt="image" />
+                <img src={`img/about/4.jpg`} alt="image" />
                 <div className="numbers year">
                   <div className="wrapper">
                     <h3>
-                      <Counter end={18} />
+                      <Counter end={12} />
                     </h3>
                     <span className="name">
                       Years of
                       <br />
-                      Success
+                      Jurney
                     </span>
                   </div>
                 </div>
                 <div className="numbers project">
                   <div className="wrapper">
                     <h3>
-                      <Counter end={9} />K
+                      <Counter end={40} />
                     </h3>
                     <span className="name">
-                      Total
+                      +
                       <br />
-                      Projects
+                      Publications
                     </span>
                   </div>
                 </div>
@@ -36,17 +36,21 @@ const About = ({ dark }) => {
             </div>
             <div className="right">
               <div className="title wow fadeInUp" data-wow-duration="1s">
-                <span>{`I'm a Designer`}</span>
-                <h3>I Can Design Anything You Want</h3>
+                <span>{`I'm a Professor`}</span>
+                <h3>I have been teaching since 2016</h3>
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
-                <p>
-                  {`Hello there! I'm a web designer, and I'm very passionate and
-                  dedicated to my work. With 20 years experience as a
-                  professional web developer, I have acquired the skills and
-                  knowledge necessary to make your project a success. I enjoy
-                  every step of the design process, from discussion and
-                  collaboration.`}
+                <p>Hello there! I'm an Assistan Professor, and I'm very passionate and dedicated to my work.
+                   With  several years research experience as a postdoctoral Professor , I have acquired the
+                    skills and knowledge necessary to make a research successful . And I have been teaching
+                     as an assistant professor in University of Illinois at Urbana-Champaign since 2016 till 
+                     now .</p>
+                <h4>Academic Positions</h4>
+                <p>&bull;
+                  {` Assistant Professor, University of Illinois at Urbana-Champaign, 2016-present`}
+                </p>
+                <p>&bull;
+                  {` Postdoctoral Researcher, ETH Zurich, 2014-2016, advisor: Torsten Hoefler`}
                 </p>
               </div>
               <div
@@ -54,7 +58,7 @@ const About = ({ dark }) => {
                 data-wow-duration="1s"
               >
                 <a className="anchor" href="#contact">
-                  <span>Hire Me</span>
+                  <span>Contact Me</span>
                 </a>
               </div>
             </div>
