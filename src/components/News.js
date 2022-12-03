@@ -27,7 +27,7 @@ const News = () => {
              <span></span>
              <p><strong>SIAM</strong> Activity Group on Supercomputing Early Career Prize <strong>(2020)</strong>.</p>
              <span></span>
-             <p><strong>IEEE-CS</strong> Technical Consortium on High Performance Computing <em><strong>(TCHPC)</strong></em> Early Career Researchers Award for Excellence in High Performance Computing <strong>(2018)</strong>.</p>
+             <p><strong>IEEE-CS</strong><u> Technical Consortium on High Performance Computing </u><em><strong>(TCHPC)</strong></em> Early Career Researchers Award for Excellence in High Performance Computing <strong>(2018)</strong>.</p>
              <span></span>
              <p><strong><em><u>Alston S.</u></em></strong> Householder Prize <strong>(2017)</strong>.</p>
              <span></span>
@@ -39,7 +39,7 @@ const News = () => {
              <span></span>
              <p><strong>NERSC</strong> Award for Innovative Use of High Performance Computing <strong>(2013)</strong>.</p>
              <span></span>
-             <p><u>Distinguished Paper Award,</u> Euro-Par <strong>(2011)</strong>.</p>
+             <p><u><strong>Distinguished Paper Award,</strong></u> Euro-Par <strong>(2011)</strong>.</p>
              <span></span>
              <p><strong><en>DOE</en></strong> Computational Science Graduate Fellowship <strong>(2010)</strong>.</p>
              <span></span>
@@ -51,7 +51,7 @@ const News = () => {
              <span></span>
              <p>CS 554 <strong><em>(CSE 512)</em></strong> - Parallel Numerical Algorithms.</p>
              <span></span>
-             <p><strong><u>CS 598 EVS</u></strong> - Tensor Computations.</p>
+             <p><strong><u><em>CS 598 EVS</em></u></strong> - Tensor Computations.</p>
              <span></span>
           </div>
           <div className="dizme_tm_main_title" data-align="center">
