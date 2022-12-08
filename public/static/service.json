@@ -110,8 +110,8 @@
     },
     "dec": [
       "In mathematics, graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects.",
-      "A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines).",
-      "A distinction is made between undirected graphs, where edges link two vertices symmetrically, and directed graphs, where edges link two vertices asymmetrically. Graphs are one of the principal objects of study in discrete mathematics."
+      "A graph in context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines).",
+      "A distinction is made  between undirected graphs, where edges link two vertices symmetrically, and directed graphs, where edges link two vertices asymmetrically. Graphs are one of the principal objects of study in discrete mathematics."
     ]
   },
   {
@@ -125,8 +125,9 @@
     },
     "dec": [
       "Quantum computing is a type of computation whose operations can harness the phenomena of quantum mechanics, such as superposition, interference, and entanglement. Devices that perform quantum computations are known as quantum computers.",
-      "Though current quantum computers are too small to outperform usual (classical) computers for practical applications, larger realizations are believed to be capable of solving certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science.",
+      "Though current quantum computers are too small to outperform usual classical computers for practical applications, larger realizations are believed to be capable of solving certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science.",
       "There are several models of quantum computation with the most widely used being quantum circuits. Other models include the quantum Turing machine, quantum annealing, and adiabatic quantum computation. Most models are based on the quantum bit, or  which is somewhat analogous to the bit in classical computation."
     ]
   }
+
 ]
