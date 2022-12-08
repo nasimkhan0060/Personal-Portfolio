@@ -9,9 +9,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "In mathematics, a tensor is an algebraic object that describes a multilinear relationship between sets of algebraic objects related to a vector space.Tensors may map between different objects such as vectors, scalars, and even other tensors. There are many types of tensors, including scalars and vectors (which are the simplest tensors),dual vectors, multilinear maps between vector spaces, and even some operations such as the dot product.",
+      "Tensors are defined independent of any basis, although they are often referred to by their components in a basis related to a particular coordinate system.Tensors have become important in physics because they provide a concise mathematical framework for formulating and solving physics problems in areas such as mechanics (stress, elasticity, fluid mechanics, moment of inertia, ...), electrodynamics (electromagnetic tensor, Maxwell tensor, permittivity, magnetic susceptibility, ...), general relativity (stress–energy tensor, curvature tensor, ...) and others. In applications, it is common to study situations in which a different tensor can occur at each point of an object; for example the stress within an object may vary from one location to another.",
+      "This leads to the concept of a tensor field. In some areas, tensor fields are so ubiquitous that they are often simply called tensors."
     ]
   },
   {
@@ -24,9 +24,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, with regard to some criterion, from some set of available alternatives.",
+      "Optimization problems of sorts arise in all quantitative disciplines from computer science and engineering to operations research and economics, and the development of solution methods has been of interest in mathematics for centuries.",
+      "In the more general approach, an optimization problem consists of maximizing or minimizing a real function by systematically choosing input values from within an allowed set and computing the value of the function. "
     ]
   },
   {
@@ -39,9 +39,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Numerical linear algebra, sometimes called applied linear algebra, is the study of how matrix operations can be used to create computer algorithms which efficiently and accurately provide approximate answers to questions in continuous mathematics.",
+      "Numerical linear algebra uses properties of vectors and matrices to develop computer algorithms that minimize the error introduced by the computer, and is also concerned with ensuring that the algorithm is as efficient as possible.",
+      "Numerical linear algebra aims to solve problems of continuous mathematics using finite precision computers, so its applications to the natural and social sciences are as vast as the applications of continuous mathematics."
     ]
   },{
     "title": "Parallel and High Performance Computing",
@@ -53,9 +53,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "HPC integrates systems administration (including network and security knowledge) and parallel programming into a multidisciplinary field that combines digital electronics, computer architecture, system software, programming languages, algorithms and computational techniques.",
+      "The term is most commonly associated with computing used for scientific research or computational science. A related term, high-performance technical computing (HPTC), generally refers to the engineering applications of cluster-based computing (such as computational fluid dynamics and the building and testing of virtual prototypes).",
+      "HPC has also been applied to business uses such as data warehouses, line-of-business (LOB) applications, and transaction processing."
     ]
   },{
     "title": "Communication-avoiding Algorithms",
@@ -67,9 +67,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Communication-avoiding algorithms minimize movement of data within a memory hierarchy for improving its running-time and energy consumption. These minimize the total of two costs arithmetic and communication.",
+      "Communication, in this context refers to moving data, either between levels of memory or between multiple processors over a network. It is much more expensive than arithmetic.",
+      "Most of the approaches investigated in the past to address this problem rely on scheduling or tuning techniques that aim at overlapping communication with computation. However, this approach can lead to an improvement of at most a factor of two."
     ]
   },{
     "title": "Communication Lower Bounds",
@@ -81,9 +81,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "In mathematics, particularly in order theory, an upper bound or majorant[1] of a subset S of some preordered set (K, ≤) is an element of K that is greater than or equal to every element of S.",
+      "A set with an upper (respectively, lower) bound is said to be bounded from above or majorized (respectively bounded from below or minorized) by that bound.",
+      "The terms bounded above (bounded below) are also used in the mathematical literature for sets that have upper (respectively lower) bounds."
     ]
   },{
     "title": "Electronic Structure Calculations",
@@ -95,9 +95,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "In quantum chemistry, electronic structure is the state of motion of electrons in an electrostatic field created by stationary nuclei.",
+      " The term encompasses both the wave functions of the electrons and the energies associated with them.",
+      "Electronic structure is obtained by solving quantum mechanical equations for the aforementioned clamped-nuclei problem.Electronic structure problems arise from the Born–Oppenheimer approximation."
     ]
   },{
     "title": "Graph Algorithms",
@@ -109,9 +109,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "In mathematics, graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects.",
+      "A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines).",
+      "A distinction is made between undirected graphs, where edges link two vertices symmetrically, and directed graphs, where edges link two vertices asymmetrically. Graphs are one of the principal objects of study in discrete mathematics."
     ]
   },
   {
@@ -124,9 +124,9 @@
       "iconBg": "img/brushes/service/1.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Quantum computing is a type of computation whose operations can harness the phenomena of quantum mechanics, such as superposition, interference, and entanglement. Devices that perform quantum computations are known as quantum computers.",
+      "Though current quantum computers are too small to outperform usual (classical) computers for practical applications, larger realizations are believed to be capable of solving certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science.",
+      "There are several models of quantum computation with the most widely used being quantum circuits. Other models include the quantum Turing machine, quantum annealing, and adiabatic quantum computation. Most models are based on the quantum bit, or  which is somewhat analogous to the bit in classical computation."
     ]
   }
 ]
