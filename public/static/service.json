@@ -2,7 +2,7 @@
   {
     "title": "Tensor Computations",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/Tensor.png",
     "shortDec": "A New Framework for High-Dimensional Problems in EDA",
     "icon": {
       "image": "img/service/tensor computations.png",
@@ -17,7 +17,7 @@
   {
     "title": "Numerical Optimization",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/Numerical.png",
     "shortDec": "Numerical Optimization presents a comprehensive and up-to-date description of the most effective methods in continuous optimization.",
     "icon": {
       "image": "img/service/numerical optimization.png",
@@ -32,7 +32,7 @@
   {
     "title": "Numerical Linear Algebra",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/Nlinear.png",
     "shortDec": "The study of how matrix operations can be used to create computer algorithms.",
     "icon": {
       "image": "img/service/numerical linear algebra.jpg",
@@ -46,7 +46,7 @@
   },{
     "title": "Parallel and High Performance Computing",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/ph.png",
     "shortDec": "Write fast, powerful, energy efficient programs that scale to tackle huge volumes of data",
     "icon": {
       "image": "img/service/parallel and high performance computing.jpg",
@@ -60,7 +60,7 @@
   },{
     "title": "Communication-avoiding Algorithms",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/cd.png",
     "shortDec": "Communication-avoiding algorithms minimize movement of data within a memory hierarchy for improving its running-time and energy consumption.",
     "icon": {
       "image": "img/service/communication-avoiding algorithms.png",
@@ -74,7 +74,7 @@
   },{
     "title": "Communication Lower Bounds",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/Clb.png",
     "shortDec": "formulate the problem in terms of matrix operations, and prove the computation- and communication bounds for the existing strategies.",
     "icon": {
       "image": "img/service/communication lower bounds.jpg",
@@ -88,7 +88,7 @@
   },{
     "title": "Electronic Structure Calculations",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/Esc.png",
     "shortDec": "Enable one to determine quantities inaccessible to experiments.",
     "icon": {
       "image": "img/service/electronic structure calculations.jpg",
@@ -102,7 +102,7 @@
   },{
     "title": "Graph Algorithms",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/Gra.png",
     "shortDec": "A Graph is a non-linear data structure consisting of vertices and edges.",
     "icon": {
       "image": "img/service/graph algorithms.png",
@@ -117,7 +117,7 @@
   {
     "title": "Quantum Computing",
     "price": "",
-    "img": "img/service/1.jpg",
+    "img": "img/service/Qc.png",
     "shortDec": "Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.",
     "icon": {
       "image": "img/service/quantum computing.png",

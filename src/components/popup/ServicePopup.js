@@ -21,7 +21,7 @@ const ServicePopup = ({ data, open, close }) => {
               <div className="main_title">
                 <h3>{data && data.title ? data.title : "Title"}</h3>
                 <span className="price">
-                  Starts from <span>${data && data.price}</span>
+                  
                 </span>
               </div>
               <div className="descriptions">
